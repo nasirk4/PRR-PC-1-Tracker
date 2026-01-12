@@ -1,0 +1,128 @@
+[
+  {
+    "sheet_name": "6.4",
+    "row_number": 2,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": "Sr. No",
+      "Unnamed: 1": "Items",
+      "Unnamed: 2": "Price (USD)",
+      "Unnamed: 3": "Price (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.4",
+    "row_number": 3,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": 1,
+      "Unnamed: 1": "PC malware protection EDR (End Point Detection & Response)",
+      "Unnamed: 2": 900000,
+      "Unnamed: 3": 252000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.4",
+    "row_number": 4,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": 2,
+      "Unnamed: 1": "Web Security Gateway",
+      "Unnamed: 2": 350000,
+      "Unnamed: 3": 98000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.4",
+    "row_number": 5,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": 3,
+      "Unnamed: 1": "GRC Solution and IT Asset Register",
+      "Unnamed: 2": 217718,
+      "Unnamed: 3": 60961040
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.4",
+    "row_number": 6,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": 4,
+      "Unnamed: 1": "Network Monitoring Solution",
+      "Unnamed: 2": 150000,
+      "Unnamed: 3": 42000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.4",
+    "row_number": 7,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": 5,
+      "Unnamed: 1": "Cyber Security Solutions",
+      "Unnamed: 2": 220000,
+      "Unnamed: 3": 61600000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.4",
+    "row_number": 8,
+    "original_data": {
+      "6. ANNEX-6.4 TABLE 4: DATA CENTER INFORMATION SECURITY SOFTWARE": null,
+      "Unnamed: 1": "Total",
+      "Unnamed: 2": 1837718,
+      "Unnamed: 3": 514561040
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

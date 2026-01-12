@@ -1,0 +1,376 @@
+[
+  {
+    "sheet_name": "6.1",
+    "row_number": 2,
+    "original_data": {
+      "S.No": null,
+      "Products": null,
+      "Site-A": null,
+      "Site-B": null,
+      "Total Quantity": null,
+      "Unit Cost": "USD",
+      "Total Cost": "USD",
+      "Total Cost.1": "PKR"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 3,
+    "original_data": {
+      "S.No": 1.0,
+      "Products": "Servers",
+      "Site-A": 70,
+      "Site-B": 30,
+      "Total Quantity": 100,
+      "Unit Cost": 35000,
+      "Total Cost": 3500000,
+      "Total Cost.1": 980000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 4,
+    "original_data": {
+      "S.No": 2.0,
+      "Products": "Racks for Servers",
+      "Site-A": 8,
+      "Site-B": 4,
+      "Total Quantity": 12,
+      "Unit Cost": 10000,
+      "Total Cost": 120000,
+      "Total Cost.1": 33600000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 5,
+    "original_data": {
+      "S.No": 3.0,
+      "Products": "Oracle Qtr Rack Exadata with support",
+      "Site-A": 1,
+      "Site-B": "-",
+      "Total Quantity": 1,
+      "Unit Cost": 792800,
+      "Total Cost": 792800,
+      "Total Cost.1": 221984000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 6,
+    "original_data": {
+      "S.No": 4.0,
+      "Products": "Oracle licenses for ExaData server with support",
+      "Site-A": 30,
+      "Site-B": 15,
+      "Total Quantity": 45,
+      "Unit Cost": 60000,
+      "Total Cost": 2700000,
+      "Total Cost.1": 756000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 7,
+    "original_data": {
+      "S.No": 5.0,
+      "Products": "Storage Area Network (SAN)",
+      "Site-A": 4,
+      "Site-B": 2,
+      "Total Quantity": 4,
+      "Unit Cost": 800000,
+      "Total Cost": 3200000,
+      "Total Cost.1": 896000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 8,
+    "original_data": {
+      "S.No": 6.0,
+      "Products": "Data protection SW and VTL (Virtual Tape Library)",
+      "Site-A": 1,
+      "Site-B": 1,
+      "Total Quantity": 2,
+      "Unit Cost": 120000,
+      "Total Cost": 240000,
+      "Total Cost.1": 67200000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 9,
+    "original_data": {
+      "S.No": 7.0,
+      "Products": "Tape Library for offsite Data Backup",
+      "Site-A": 1,
+      "Site-B": 1,
+      "Total Quantity": 2,
+      "Unit Cost": 100000,
+      "Total Cost": 200000,
+      "Total Cost.1": 56000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 10,
+    "original_data": {
+      "S.No": 8.0,
+      "Products": "Fabric Interconnect (Core Switch)",
+      "Site-A": 2,
+      "Site-B": 2,
+      "Total Quantity": 4,
+      "Unit Cost": 80000,
+      "Total Cost": 320000,
+      "Total Cost.1": 89600000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 11,
+    "original_data": {
+      "S.No": 9.0,
+      "Products": "Fabric Members/TORs (Top of Rack)",
+      "Site-A": 8,
+      "Site-B": 8,
+      "Total Quantity": 30,
+      "Unit Cost": 30000,
+      "Total Cost": 900000,
+      "Total Cost.1": 252000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 12,
+    "original_data": {
+      "S.No": 10.0,
+      "Products": "Layer 2 switches",
+      "Site-A": 20,
+      "Site-B": 12,
+      "Total Quantity": 32,
+      "Unit Cost": 7000,
+      "Total Cost": 224000,
+      "Total Cost.1": 62720000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 13,
+    "original_data": {
+      "S.No": 11.0,
+      "Products": "NGFW (Next Generation Firewall)",
+      "Site-A": 2,
+      "Site-B": 0,
+      "Total Quantity": 8,
+      "Unit Cost": 250000,
+      "Total Cost": 2000000,
+      "Total Cost.1": 560000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 14,
+    "original_data": {
+      "S.No": 12.0,
+      "Products": "WAF (Web Application Firewall)",
+      "Site-A": 2,
+      "Site-B": 0,
+      "Total Quantity": 4,
+      "Unit Cost": 500000,
+      "Total Cost": 2000000,
+      "Total Cost.1": 560000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 15,
+    "original_data": {
+      "S.No": 13.0,
+      "Products": "Border Leaf",
+      "Site-A": 2,
+      "Site-B": 2,
+      "Total Quantity": 4,
+      "Unit Cost": 45000,
+      "Total Cost": 180000,
+      "Total Cost.1": 50400000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 16,
+    "original_data": {
+      "S.No": 14.0,
+      "Products": "Service Leaf",
+      "Site-A": 2,
+      "Site-B": 2,
+      "Total Quantity": 4,
+      "Unit Cost": 42000,
+      "Total Cost": 168000,
+      "Total Cost.1": 47040000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 17,
+    "original_data": {
+      "S.No": 15.0,
+      "Products": "Ancillary Datacenter items",
+      "Site-A": "-",
+      "Site-B": "-",
+      "Total Quantity": "-",
+      "Unit Cost": "-",
+      "Total Cost": 150000,
+      "Total Cost.1": 42000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.1",
+    "row_number": 18,
+    "original_data": {
+      "S.No": null,
+      "Products": "Grand Total",
+      "Site-A": null,
+      "Site-B": null,
+      "Total Quantity": null,
+      "Unit Cost": null,
+      "Total Cost": 16694800,
+      "Total Cost.1": 4674544000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

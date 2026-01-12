@@ -1,0 +1,422 @@
+[
+  {
+    "sheet_name": "5.3",
+    "row_number": 2,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "UPS with Capacity",
+      "Unnamed: 2": "Quantity",
+      "Unnamed: 3": "Unit Cost (US $)",
+      "Unnamed: 4": "5% (ATS,DB Panel/Cabling) Cost USD",
+      "Unnamed: 5": "Total Cost (USD)",
+      "Unnamed: 6": "Total Cost (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 3,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "UPS 10 KVA",
+      "Unnamed: 2": 105,
+      "Unnamed: 3": 5000,
+      "Unnamed: 4": 250,
+      "Unnamed: 5": 551250,
+      "Unnamed: 6": 157073175
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 4,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Ups 16 KVA",
+      "Unnamed: 2": 45,
+      "Unnamed: 3": 16000,
+      "Unnamed: 4": 800,
+      "Unnamed: 5": 756000,
+      "Unnamed: 6": 215414640
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 5,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "UPS 20 KVA",
+      "Unnamed: 2": 16,
+      "Unnamed: 3": 22000,
+      "Unnamed: 4": 1100,
+      "Unnamed: 5": 369600,
+      "Unnamed: 6": 105313824
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 6,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "UPS 30 KVA",
+      "Unnamed: 2": 4,
+      "Unnamed: 3": 108000,
+      "Unnamed: 4": 5400,
+      "Unnamed: 5": 453600,
+      "Unnamed: 6": 129248784
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 7,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "UPS 40 KVA",
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 52000,
+      "Unnamed: 4": 2600,
+      "Unnamed: 5": 109200,
+      "Unnamed: 6": 31115448
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 8,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "UPS 80 KVA",
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 50536,
+      "Unnamed: 4": 2527,
+      "Unnamed: 5": 106126,
+      "Unnamed: 6": 30239542
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 9,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "SUB TOTAL",
+      "Unnamed: 2": 174,
+      "Unnamed: 3": null,
+      "Unnamed: 4": null,
+      "Unnamed: 5": 2345776,
+      "Unnamed: 6": 668405413
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 10,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Genest with Capacity Required",
+      "Unnamed: 2": "Quantity",
+      "Unnamed: 3": "Unit Cost(USD) including GST",
+      "Unnamed: 4": "5% Installation / Transportation Cost",
+      "Unnamed: 5": "Total Cost(USD)",
+      "Unnamed: 6": "Total Cost (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 11,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 50 KVA",
+      "Unnamed: 2": 8,
+      "Unnamed: 3": 20000,
+      "Unnamed: 4": 1000,
+      "Unnamed: 5": 168000,
+      "Unnamed: 6": 47869920
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 12,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 100 KVA",
+      "Unnamed: 2": 13,
+      "Unnamed: 3": 24400,
+      "Unnamed: 4": 1220,
+      "Unnamed: 5": 333060,
+      "Unnamed: 6": 94902116
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 13,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 150 KVA",
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 36094,
+      "Unnamed: 4": 1805,
+      "Unnamed: 5": 75798,
+      "Unnamed: 6": 21597882
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 14,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 200 KVA",
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 40159,
+      "Unnamed: 4": 2008,
+      "Unnamed: 5": 84334,
+      "Unnamed: 6": 24030130
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 15,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 250 KVA",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 53380,
+      "Unnamed: 4": 2669,
+      "Unnamed: 5": 56049,
+      "Unnamed: 6": 15970602
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 16,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 300 KVA",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 58351,
+      "Unnamed: 4": 2918,
+      "Unnamed: 5": 61269,
+      "Unnamed: 6": 17457989
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 17,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 350 KVA",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 64270,
+      "Unnamed: 4": 3214,
+      "Unnamed: 5": 67484,
+      "Unnamed: 6": 19228891
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 18,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 450 KVA",
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 77659,
+      "Unnamed: 4": 3883,
+      "Unnamed: 5": 163084,
+      "Unnamed: 6": 46469155
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 19,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Generators 550 KVA",
+      "Unnamed: 2": 2,
+      "Unnamed: 3": 243046,
+      "Unnamed: 4": 12152,
+      "Unnamed: 5": 510396,
+      "Unnamed: 6": 145432236
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 20,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Sub Total",
+      "Unnamed: 2": 32,
+      "Unnamed: 3": null,
+      "Unnamed: 4": null,
+      "Unnamed: 5": 1519474,
+      "Unnamed: 6": 432958922
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3",
+    "row_number": 21,
+    "original_data": {
+      "TABLE 5.3: SUMMARY OF POWER INFRASTRUCTURE FOR FIELD FORMATIONS": null,
+      "Unnamed: 1": "Grand Total (UPS+ GENSET)",
+      "Unnamed: 2": null,
+      "Unnamed: 3": null,
+      "Unnamed: 4": 43545,
+      "Unnamed: 5": 3865250,
+      "Unnamed: 6": 1101364335
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

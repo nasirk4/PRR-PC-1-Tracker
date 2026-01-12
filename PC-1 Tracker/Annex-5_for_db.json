@@ -1,0 +1,302 @@
+[
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 2,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": "Category",
+      "Unnamed: 1": "Break-up of PC-I-Component II ($150 M)",
+      "Unnamed: 2": "Revised Approved Cost USD (Million)",
+      "Unnamed: 3": "Revised Proposed Cost USD (Million)",
+      "Unnamed: 4": null,
+      "Unnamed: 5": "Revised Cost PKR (Million)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 3,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": 1,
+      "Unnamed: 1": "a) Replacement of end-of-life hardware, establishment of Data Centers, licensing and legacy branded software updated",
+      "Unnamed: 2": 38,
+      "Unnamed: 3": 25.931,
+      "Unnamed: 4": 56.884047,
+      "Unnamed: 5": 15927533160
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 4,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": "b) Data Warehouse, Business Intelligence (BI) tools with other Software solutions",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 7.876,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 5,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": "c) Equipment and Full connectivity for FBR HQ & field formations including LAN, VoIP and Monitoring & Control Rooms",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 3.777,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 6,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": "d) Technical consultations with provincial tax authorities on tax harmonization",
+      "Unnamed: 2": "\u2013",
+      "Unnamed: 3": 0.6,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 7,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": "e) Value chains Digital Transformation, Introduction of Technology, Implementation support for and Value chain Implementation Support",
+      "Unnamed: 2": "\u2013",
+      "Unnamed: 3": 4,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 8,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": "f) Digitalization Implementation, Support and ground surveys, Vehicle tracking, E-way billing, Mobile Tax facilitation & compliance initiatives\n\ng) Refurbishment of FBR Offices and Transit Accommodations",
+      "Unnamed: 2": "\u2013",
+      "Unnamed: 3": 14.7,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 9,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": 56.884047,
+      "Unnamed: 3": "\u2013",
+      "Unnamed: 4": 15927.53316,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 10,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": 2,
+      "Unnamed: 1": "a) Establishment / refurbishment of Remote Image Analysis Center (RIAC). RIAC allied equipment",
+      "Unnamed: 2": 30,
+      "Unnamed: 3": 3,
+      "Unnamed: 4": 49.316,
+      "Unnamed: 5": 13808499880
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 11,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": null,
+      "Unnamed: 1": "b) Digital Enforcement Stations (DES) \u2013 Indus Collectorate (Establishment / Refurbishment of buildings), Check posts of West Indus (Establishment / Refurbishment of buildings), Faceless Assessment, BPR-Transformation, Vigilance Equipment/gadgets at Border Crossing Point and IMO (CTS / NTC & others)",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 46.316,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 12,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": 3,
+      "Unnamed: 1": "Audit Specialist, certifications and trainings, Analytical & Revenue Acceleration Unit, Panel of Experts / Audit Mentors, Equipment for checkposts",
+      "Unnamed: 2": "\u2013",
+      "Unnamed: 3": 25.3,
+      "Unnamed: 4": 25.3,
+      "Unnamed: 5": 7084000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 13,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": 4,
+      "Unnamed: 1": "Strengthening of IT Arm of FBR, Procurement of 3rd party software solutions, Hardware and Software procurement",
+      "Unnamed: 2": "\u2013",
+      "Unnamed: 3": 11,
+      "Unnamed: 4": 11.0,
+      "Unnamed: 5": 3080000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 14,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": 5,
+      "Unnamed: 1": "Customs Central Risk Management Framework, and PCA Framework and training",
+      "Unnamed: 2": 3.5,
+      "Unnamed: 3": 3.5,
+      "Unnamed: 4": 3.5,
+      "Unnamed: 5": 980000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 15,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": 6,
+      "Unnamed: 1": "Technical Assistance for Business Process Improvement & Automation, hiring of specialists for Program office and Operational & Administration costs/expenses",
+      "Unnamed: 2": 8.5,
+      "Unnamed: 3": 4,
+      "Unnamed: 4": 4.0,
+      "Unnamed: 5": 1120000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-5",
+    "row_number": 16,
+    "original_data": {
+      "\ud83d\udcca ANNEX 5 \u2013 BREAKDOWN OF IPF COMPONENT BY CATEGORY": "TOTAL",
+      "Unnamed: 1": null,
+      "Unnamed: 2": 80,
+      "Unnamed: 3": 150,
+      "Unnamed: 4": null,
+      "Unnamed: 5": 42036403910
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

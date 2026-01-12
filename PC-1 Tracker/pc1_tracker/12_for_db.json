@@ -1,0 +1,87 @@
+[
+  {
+    "sheet_name": "12",
+    "row_number": 2,
+    "original_data": {
+      "Table 12: STRENGTHENING OF IT ARM OF FBR": "Description",
+      "Unnamed: 1": "Total (USD)",
+      "Unnamed: 2": "Total (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12",
+    "row_number": 3,
+    "original_data": {
+      "Table 12: STRENGTHENING OF IT ARM OF FBR": "Hiring of Technical staff / consultants",
+      "Unnamed: 1": 1000000,
+      "Unnamed: 2": 280000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12",
+    "row_number": 4,
+    "original_data": {
+      "Table 12: STRENGTHENING OF IT ARM OF FBR": "Procurement of 3rd party software solutions",
+      "Unnamed: 1": 7180000,
+      "Unnamed: 2": 2010400000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12",
+    "row_number": 5,
+    "original_data": {
+      "Table 12: STRENGTHENING OF IT ARM OF FBR": "Hardware & Software procurement",
+      "Unnamed: 1": 2820000,
+      "Unnamed: 2": 789600000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12",
+    "row_number": 6,
+    "original_data": {
+      "Table 12: STRENGTHENING OF IT ARM OF FBR": "Total",
+      "Unnamed: 1": 11000000,
+      "Unnamed: 2": 3080000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

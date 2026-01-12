@@ -1,0 +1,650 @@
+[
+  {
+    "sheet_name": "12.1",
+    "row_number": 2,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": "Sr.No",
+      "Unnamed: 1": "Description",
+      "Unnamed: 2": "Cost in USD $ Million",
+      "Unnamed: 3": "Total Cost in PKR Mn"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 3,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 1,
+      "Unnamed: 1": "Hiring of Technical staff / consultants",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 280
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 4,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": null,
+      "Unnamed: 1": "Sub-Total",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 280
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 5,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": null,
+      "Unnamed: 1": "3rd Party Software",
+      "Unnamed: 2": null,
+      "Unnamed: 3": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 6,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 2,
+      "Unnamed: 1": "Project Management Solutions",
+      "Unnamed: 2": 0.18,
+      "Unnamed: 3": 50
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 7,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 3,
+      "Unnamed: 1": "Data Dictionary & Modeling Solution",
+      "Unnamed: 2": 0.36,
+      "Unnamed: 3": 101
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 8,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 4,
+      "Unnamed: 1": "MS Office",
+      "Unnamed: 2": 0.54,
+      "Unnamed: 3": 151
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 9,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 5,
+      "Unnamed: 1": "SIEM Solution",
+      "Unnamed: 2": 0.79,
+      "Unnamed: 3": 221
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 10,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 6,
+      "Unnamed: 1": "Microsoft Power BI",
+      "Unnamed: 2": 0.45,
+      "Unnamed: 3": 126
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 11,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 7,
+      "Unnamed: 1": "Microsoft CRM",
+      "Unnamed: 2": 0.18,
+      "Unnamed: 3": 50
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 12,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 8,
+      "Unnamed: 1": "Microsoft Share point",
+      "Unnamed: 2": 0.14,
+      "Unnamed: 3": 39
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 13,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 9,
+      "Unnamed: 1": "Microsoft Windows Datacenter",
+      "Unnamed: 2": 0.36,
+      "Unnamed: 3": 101
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 14,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 10,
+      "Unnamed: 1": "Database Performance Monitoring",
+      "Unnamed: 2": 0.5,
+      "Unnamed: 3": 140
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 15,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 11,
+      "Unnamed: 1": "Virtualization Solution",
+      "Unnamed: 2": 1.07,
+      "Unnamed: 3": 300
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 16,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 12,
+      "Unnamed: 1": "Email Security MFA solution",
+      "Unnamed: 2": 0.33,
+      "Unnamed: 3": 92
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 17,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 13,
+      "Unnamed: 1": "Visual Studio",
+      "Unnamed: 2": 0.3,
+      "Unnamed: 3": 84
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 18,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 14,
+      "Unnamed: 1": "Microsoft Licensing",
+      "Unnamed: 2": 0.26,
+      "Unnamed: 3": 73
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 19,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 15,
+      "Unnamed: 1": "Oracle TOAD",
+      "Unnamed: 2": 0.14,
+      "Unnamed: 3": 39
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 20,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 16,
+      "Unnamed: 1": "XDR Solution",
+      "Unnamed: 2": 0.8,
+      "Unnamed: 3": 224
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 21,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 17,
+      "Unnamed: 1": "Vizor",
+      "Unnamed: 2": 0.3,
+      "Unnamed: 3": 84
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 22,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 18,
+      "Unnamed: 1": "Software Development Application suit",
+      "Unnamed: 2": 0.48,
+      "Unnamed: 3": 134
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 23,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": null,
+      "Unnamed: 1": "SubTotal",
+      "Unnamed: 2": 7.18,
+      "Unnamed: 3": 2010
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 24,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": null,
+      "Unnamed: 1": "Hardware",
+      "Unnamed: 2": null,
+      "Unnamed: 3": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 25,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 1,
+      "Unnamed: 1": "Secure Web Gateway",
+      "Unnamed: 2": 0.54,
+      "Unnamed: 3": 151.2
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 26,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 2,
+      "Unnamed: 1": "DDOS Protection Appliance",
+      "Unnamed: 2": 0.19,
+      "Unnamed: 3": 53.2
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 27,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 3,
+      "Unnamed: 1": "GSLB/Link Load balancer",
+      "Unnamed: 2": 0.15,
+      "Unnamed: 3": 42
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 28,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 4,
+      "Unnamed: 1": "Sandbox hardware appliance",
+      "Unnamed: 2": 0.23,
+      "Unnamed: 3": 64.4
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 29,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 5,
+      "Unnamed: 1": "SDN Hardware Appliance",
+      "Unnamed: 2": 0.25,
+      "Unnamed: 3": 70
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 30,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 6,
+      "Unnamed: 1": "WAF - DR Site",
+      "Unnamed: 2": 0.31,
+      "Unnamed: 3": 86.8
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 31,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 7,
+      "Unnamed: 1": "ADC Server Load Balancer - DR Site",
+      "Unnamed: 2": 0.1,
+      "Unnamed: 3": 28
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 32,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 8,
+      "Unnamed: 1": "Next Gen Firewalls - DR Site/Bunker Site",
+      "Unnamed: 2": 0.3,
+      "Unnamed: 3": 84
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 33,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 9,
+      "Unnamed: 1": "DLP Appliance",
+      "Unnamed: 2": 0.2,
+      "Unnamed: 3": 56
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 34,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 10,
+      "Unnamed: 1": "Mobile Device Management Appliance",
+      "Unnamed: 2": 0.05,
+      "Unnamed: 3": 14
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 35,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": 11,
+      "Unnamed: 1": "Misc.",
+      "Unnamed: 2": 0.5,
+      "Unnamed: 3": 140
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 36,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": null,
+      "Unnamed: 1": "Total",
+      "Unnamed: 2": 2.82,
+      "Unnamed: 3": 790
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "12.1",
+    "row_number": 37,
+    "original_data": {
+      "Table 12.1 PROCUREMENT OF 3RD PARTY SOFTWARE SOLUTIONS": null,
+      "Unnamed: 1": "Grand Total",
+      "Unnamed: 2": 11,
+      "Unnamed: 3": 3080
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "sheet_name": "Annex-11",
+    "row_number": 2,
+    "original_data": {
+      "ANNEX-11 TECHNICAL ASSISTANCE AND OPERATIONAL EXPENSES": "Sr#",
+      "Unnamed: 1": "Item",
+      "Unnamed: 2": "Cost (US$/ million)",
+      "Unnamed: 3": "Remarks"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-11",
+    "row_number": 3,
+    "original_data": {
+      "ANNEX-11 TECHNICAL ASSISTANCE AND OPERATIONAL EXPENSES": 1,
+      "Unnamed: 1": "Technical Assistance",
+      "Unnamed: 2": 1.5,
+      "Unnamed: 3": "Details Annex-10.1"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-11",
+    "row_number": 4,
+    "original_data": {
+      "ANNEX-11 TECHNICAL ASSISTANCE AND OPERATIONAL EXPENSES": 2,
+      "Unnamed: 1": "Training, Workshops & Staff Capacity Building",
+      "Unnamed: 2": 0.5,
+      "Unnamed: 3": "-"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-11",
+    "row_number": 5,
+    "original_data": {
+      "ANNEX-11 TECHNICAL ASSISTANCE AND OPERATIONAL EXPENSES": 3,
+      "Unnamed: 1": "Operational & Project expenses",
+      "Unnamed: 2": 1.5,
+      "Unnamed: 3": "Details Annex-10.2"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-11",
+    "row_number": 6,
+    "original_data": {
+      "ANNEX-11 TECHNICAL ASSISTANCE AND OPERATIONAL EXPENSES": 4,
+      "Unnamed: 1": "Misc. / Contingencies",
+      "Unnamed: 2": 0.5,
+      "Unnamed: 3": "-"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "Annex-11",
+    "row_number": 7,
+    "original_data": {
+      "ANNEX-11 TECHNICAL ASSISTANCE AND OPERATIONAL EXPENSES": null,
+      "Unnamed: 1": "Total",
+      "Unnamed: 2": "4.0*",
+      "Unnamed: 3": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

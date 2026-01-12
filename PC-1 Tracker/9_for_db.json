@@ -1,0 +1,62 @@
+[
+  {
+    "sheet_name": "9",
+    "row_number": 2,
+    "original_data": {
+      "Table 9: REMOTE IMAGE ANALYSIS CENTER (RIAC)": "S. No",
+      "Unnamed: 1": "Product Description",
+      "Unnamed: 2": "Units",
+      "Unnamed: 3": "Quantity",
+      "Unnamed: 4": "Amount (US$)",
+      "Unnamed: 5": "Amount (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "9",
+    "row_number": 3,
+    "original_data": {
+      "Table 9: REMOTE IMAGE ANALYSIS CENTER (RIAC)": 1,
+      "Unnamed: 1": "Establishment / refurbishment of Central Control Room (RIAC) at New Customs House, Karachi. RIAC allied equipment",
+      "Unnamed: 2": "Job",
+      "Unnamed: 3": 1,
+      "Unnamed: 4": 3000000,
+      "Unnamed: 5": 840000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "9",
+    "row_number": 4,
+    "original_data": {
+      "Table 9: REMOTE IMAGE ANALYSIS CENTER (RIAC)": null,
+      "Unnamed: 1": "Total",
+      "Unnamed: 2": null,
+      "Unnamed: 3": null,
+      "Unnamed: 4": 3000000,
+      "Unnamed: 5": 840000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

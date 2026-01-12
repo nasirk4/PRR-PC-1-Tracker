@@ -1,0 +1,122 @@
+[
+  {
+    "sheet_name": "5.1",
+    "row_number": 2,
+    "original_data": {
+      "LAN INFRASTRUCTURE FOR DATA CENTER, FBR HEADQUARTERS & FIELD FORMATIONS": "Sr.No",
+      "Unnamed: 1": "Switch Type",
+      "Unnamed: 2": "Quantity",
+      "Unnamed: 3": "TOTAL Cost (USD)",
+      "Unnamed: 4": "Total (PKR)",
+      "Unnamed: 5": "Remarks"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.1",
+    "row_number": 3,
+    "original_data": {
+      "LAN INFRASTRUCTURE FOR DATA CENTER, FBR HEADQUARTERS & FIELD FORMATIONS": 1,
+      "Unnamed: 1": "Layer II POE, 48 port switches",
+      "Unnamed: 2": 36,
+      "Unnamed: 3": 89205,
+      "Unnamed: 4": 24977400,
+      "Unnamed: 5": "Requirement details provided in Table 5.2.1"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.1",
+    "row_number": 4,
+    "original_data": {
+      "LAN INFRASTRUCTURE FOR DATA CENTER, FBR HEADQUARTERS & FIELD FORMATIONS": 2,
+      "Unnamed: 1": "Layer II 24 Port Ethernet switches with Fiber uplinks",
+      "Unnamed: 2": 624,
+      "Unnamed: 3": 428523,
+      "Unnamed: 4": 119986440,
+      "Unnamed: 5": "Requirement details provided in Table 5.2.1"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.1",
+    "row_number": 5,
+    "original_data": {
+      "LAN INFRASTRUCTURE FOR DATA CENTER, FBR HEADQUARTERS & FIELD FORMATIONS": 3,
+      "Unnamed: 1": "Layer III 48 port Core Fiber Switches",
+      "Unnamed: 2": 4,
+      "Unnamed: 3": 47519,
+      "Unnamed: 4": 13305320,
+      "Unnamed: 5": "Requirement details provided in Table 5.2.1"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.1",
+    "row_number": 6,
+    "original_data": {
+      "LAN INFRASTRUCTURE FOR DATA CENTER, FBR HEADQUARTERS & FIELD FORMATIONS": 4,
+      "Unnamed: 1": "Layer III 24 port Core Fiber Switches",
+      "Unnamed: 2": 20,
+      "Unnamed: 3": 134753,
+      "Unnamed: 4": 37730840,
+      "Unnamed: 5": "Requirement details provided in Table 5.2.1"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.1",
+    "row_number": 7,
+    "original_data": {
+      "LAN INFRASTRUCTURE FOR DATA CENTER, FBR HEADQUARTERS & FIELD FORMATIONS": null,
+      "Unnamed: 1": "GRAND TOTAL",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 700000,
+      "Unnamed: 4": 196000000,
+      "Unnamed: 5": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

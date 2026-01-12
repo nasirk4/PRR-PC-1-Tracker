@@ -1,0 +1,154 @@
+[
+  {
+    "sheet_name": "5.4",
+    "row_number": 2,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "Item",
+      "Unnamed: 1": "Qty",
+      "Unnamed: 2": "Unit Price (USD)",
+      "Unnamed: 3": "Total Cost (USD)",
+      "Unnamed: 4": "Total Cost (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 3,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "Cameras",
+      "Unnamed: 1": 2500,
+      "Unnamed: 2": 91,
+      "Unnamed: 3": 227500,
+      "Unnamed: 4": 64823850
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 4,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "NVR",
+      "Unnamed: 1": 70,
+      "Unnamed: 2": 455,
+      "Unnamed: 3": 31850,
+      "Unnamed: 4": 9075339
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 5,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "HDDs",
+      "Unnamed: 1": 700,
+      "Unnamed: 2": 91,
+      "Unnamed: 3": 63700,
+      "Unnamed: 4": 18150678
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 6,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "Installation and Cabling",
+      "Unnamed: 1": 70,
+      "Unnamed: 2": 2727,
+      "Unnamed: 3": 190890,
+      "Unnamed: 4": 54392197
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 7,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "Smart TV",
+      "Unnamed: 1": 30,
+      "Unnamed: 2": 1136,
+      "Unnamed: 3": 34080,
+      "Unnamed: 4": 9710755
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 8,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "Furniture & Fixture",
+      "Unnamed: 1": 15,
+      "Unnamed: 2": 13182,
+      "Unnamed: 3": 197730,
+      "Unnamed: 4": 56341186
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.4",
+    "row_number": 9,
+    "original_data": {
+      "TABLE 5.4: CONTROL ROOMS WITH VIDEO SURVEILLANCE FOR FBR HEADQUARTERS & FIELD FORMATIONS": "GRAND TOTAL",
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": 745750,
+      "Unnamed: 4": 212494005
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

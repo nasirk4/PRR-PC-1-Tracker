@@ -1,0 +1,173 @@
+[
+  {
+    "sheet_name": "10.1",
+    "row_number": 2,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": "S.No.",
+      "Unnamed: 1": "Description",
+      "Unnamed: 2": "Quantity",
+      "Unnamed: 3": "Cost",
+      "Unnamed: 4": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 3,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": "(US$ in Millions)",
+      "Unnamed: 4": "(Rs in Millions)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 4,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": 1,
+      "Unnamed: 1": "Vehicles \u2013 (Single / D Cabins) including 10 Bullet proof vehicles",
+      "Unnamed: 2": 98,
+      "Unnamed: 3": 4.375,
+      "Unnamed: 4": 1225
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 5,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": 2,
+      "Unnamed: 1": "Peripheral Surveillance Equipment (Drones/ Tethered Balloons)",
+      "Unnamed: 2": 14,
+      "Unnamed: 3": 0.875,
+      "Unnamed: 4": 245
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 6,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": 3,
+      "Unnamed: 1": "Bullet Proof Jackets, Helmets",
+      "Unnamed: 2": "250/250",
+      "Unnamed: 3": 0.357,
+      "Unnamed: 4": 100
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 7,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": 4,
+      "Unnamed: 1": "CCTV, OCR, Body cams, Computers, Internet Facility, Wireless Communication System and other equipment",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 4.782,
+      "Unnamed: 4": 1339
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 8,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": 5,
+      "Unnamed: 1": "Solarization, Furnishing, Uniforms, Appliances and other Equipment",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 5.085,
+      "Unnamed: 4": 1424
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 9,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": 6,
+      "Unnamed: 1": "Equipment for Control Room",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 2.142,
+      "Unnamed: 4": 600
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.1",
+    "row_number": 10,
+    "original_data": {
+      "Table: 10.1 Estimates of Vehicles, Equipment, ICT, Furnishing of Digital Enforcement Units (FOR PRR)-INDUS": null,
+      "Unnamed: 1": "Total",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 17.617,
+      "Unnamed: 4": 4933
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "sheet_name": "10.2",
+    "row_number": 2,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": "S.No.",
+      "Unnamed: 1": "Description",
+      "Unnamed: 2": "Quantity",
+      "Unnamed: 3": "Cost",
+      "Unnamed: 4": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 3,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": "(US$ in Millions)",
+      "Unnamed: 4": "(Rs Millions)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 4,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": 1,
+      "Unnamed: 1": "Vehicles \u2013 (Single / D Cabins) including 5 Bullet proof vehicles",
+      "Unnamed: 2": 81,
+      "Unnamed: 3": 3.616,
+      "Unnamed: 4": 1012.5
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 5,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": 2,
+      "Unnamed: 1": "Peripheral Surveillance Equipment (Drones/ Tethered Balloons)",
+      "Unnamed: 2": 4,
+      "Unnamed: 3": 0.064,
+      "Unnamed: 4": 18
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 6,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": 3,
+      "Unnamed: 1": "Bullet Proof Jackets, Helmets",
+      "Unnamed: 2": "100/100",
+      "Unnamed: 3": 0.142,
+      "Unnamed: 4": 40
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 7,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": 4,
+      "Unnamed: 1": "CCTV, OCR, Body cams, Computers, Internet Facility, Wireless Communication System, and other equipment",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 2.51,
+      "Unnamed: 4": 703
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 8,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": 5,
+      "Unnamed: 1": "Solarization, Furnishing, Uniforms, Appliances and other Equipment",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 1.992,
+      "Unnamed: 4": 558
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 9,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": 6,
+      "Unnamed: 1": "Equipment for Control Room",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 1.071,
+      "Unnamed: 4": 300
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10.2",
+    "row_number": 10,
+    "original_data": {
+      "Table 10.2 Vehicles, Equipment, ICT, Furnishing Of Digital Enforcement Units( FOR PRR)-BALOCHISTAN": null,
+      "Unnamed: 1": "Total",
+      "Unnamed: 2": null,
+      "Unnamed: 3": 9.398,
+      "Unnamed: 4": 2631.5
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

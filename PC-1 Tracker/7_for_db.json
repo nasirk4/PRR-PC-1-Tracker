@@ -1,0 +1,92 @@
+[
+  {
+    "sheet_name": "7",
+    "row_number": 2,
+    "original_data": {
+      "Table 7: Value Chain": "Description",
+      "Unnamed: 1": "Job",
+      "Unnamed: 2": "Total (USD)",
+      "Unnamed: 3": "Total (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "7",
+    "row_number": 3,
+    "original_data": {
+      "Table 7: Value Chain": "Digital Transformation Technology Solution",
+      "Unnamed: 1": 1,
+      "Unnamed: 2": 1600000,
+      "Unnamed: 3": 448000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "7",
+    "row_number": 4,
+    "original_data": {
+      "Table 7: Value Chain": "Digital Transformation Technology Implementation Support",
+      "Unnamed: 1": 1,
+      "Unnamed: 2": 900000,
+      "Unnamed: 3": 252000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "7",
+    "row_number": 5,
+    "original_data": {
+      "Table 7: Value Chain": "Value Chain Implementation Support",
+      "Unnamed: 1": 1,
+      "Unnamed: 2": 1500000,
+      "Unnamed: 3": 420000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "7",
+    "row_number": 6,
+    "original_data": {
+      "Table 7: Value Chain": "Total",
+      "Unnamed: 1": "-",
+      "Unnamed: 2": 4000000,
+      "Unnamed: 3": 1120000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "sheet_name": "6.3",
+    "row_number": 2,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": "Sr. No",
+      "Unnamed: 1": "Items",
+      "Unnamed: 2": "Price (USD)",
+      "Unnamed: 3": "Price (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 3,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 1,
+      "Unnamed: 1": "Application Performance Monitoring tool",
+      "Unnamed: 2": 320000,
+      "Unnamed: 3": 89600000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 4,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 2,
+      "Unnamed: 1": "Application Server",
+      "Unnamed: 2": 225000,
+      "Unnamed: 3": 63000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 5,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 3,
+      "Unnamed: 1": "Linux (Operating System)",
+      "Unnamed: 2": 50000,
+      "Unnamed: 3": 14000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 6,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 4,
+      "Unnamed: 1": "Microsoft Azure DevOps Server",
+      "Unnamed: 2": 60000,
+      "Unnamed: 3": 16800000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 7,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 5,
+      "Unnamed: 1": "Microsoft Exchange server Enterprise",
+      "Unnamed: 2": 67800,
+      "Unnamed: 3": 18984000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 8,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 6,
+      "Unnamed: 1": "Microsoft SQL Server enterprise",
+      "Unnamed: 2": 295000,
+      "Unnamed: 3": 82600000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 9,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 7,
+      "Unnamed: 1": "Microsoft Windows Server (Operating System)",
+      "Unnamed: 2": 30000,
+      "Unnamed: 3": 8400000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 10,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 8,
+      "Unnamed: 1": "Middleware Solution",
+      "Unnamed: 2": 750000,
+      "Unnamed: 3": 210000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 11,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 9,
+      "Unnamed: 1": "Identity and Access Management (IAM) Solutions & Implementation",
+      "Unnamed: 2": 400000,
+      "Unnamed: 3": 112000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 12,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": 10,
+      "Unnamed: 1": "Allied software",
+      "Unnamed: 2": 100000,
+      "Unnamed: 3": 28000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.3",
+    "row_number": 13,
+    "original_data": {
+      "5. ANNEX-6.3 TABLE 3: DATA CENTER SOFTWARE": null,
+      "Unnamed: 1": "Grand Total",
+      "Unnamed: 2": 2297800,
+      "Unnamed: 3": 643384000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

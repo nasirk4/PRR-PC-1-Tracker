@@ -1,0 +1,135 @@
+[
+  {
+    "sheet_name": "8",
+    "row_number": 2,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Description",
+      "Unnamed: 1": "Qty",
+      "Unnamed: 2": "Unit Price (USD)",
+      "Unnamed: 3": "Total (USD)",
+      "Unnamed: 4": "Total (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "8",
+    "row_number": 3,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Digitalization implementation, support and ground surveys",
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": 2837500,
+      "Unnamed: 4": 794500000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "8",
+    "row_number": 4,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Vehicle tracking & E-Way billing",
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": 3500000,
+      "Unnamed: 4": 980000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "8",
+    "row_number": 5,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Mobile Facilitation stations (Pilot Phase)",
+      "Unnamed: 1": 30,
+      "Unnamed: 2": 47500,
+      "Unnamed: 3": 1425000,
+      "Unnamed: 4": 406039500
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "8",
+    "row_number": 6,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Mobile Facilitation stations (Full Launch)",
+      "Unnamed: 1": 125,
+      "Unnamed: 2": 47500,
+      "Unnamed: 3": 5937500,
+      "Unnamed: 4": 1691831250
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "8",
+    "row_number": 7,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Refurbishment of FBR Offices and Transit Accommodations",
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": 1000000,
+      "Unnamed: 4": 280000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "8",
+    "row_number": 8,
+    "original_data": {
+      "Table 8: DIGITALIZATION IMPLEMENTATION, SUPPORT AND GROUND SURVEYS, VEHICLE TRACKING, E-WAY BILLING, MOBILE TAX FACILITATION & COMPLIANCE INITIATIVES": "Total",
+      "Unnamed: 1": "-",
+      "Unnamed: 2": "-",
+      "Unnamed: 3": 14700000,
+      "Unnamed: 4": 4152370750
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

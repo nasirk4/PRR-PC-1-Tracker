@@ -1,0 +1,121 @@
+[
+  {
+    "sheet_name": "10",
+    "row_number": 2,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": "Description",
+      "Unnamed: 1": "Amount",
+      "Unnamed: 2": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10",
+    "row_number": 3,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": null,
+      "Unnamed: 1": "US$",
+      "Unnamed: 2": "PKR"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10",
+    "row_number": 4,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": "DES - Indus Collectorate \u2013 (Equipment / Refurbishment of Civil Field Offices)",
+      "Unnamed: 1": 17617857,
+      "Unnamed: 2": 4933000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10",
+    "row_number": 5,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": "Check Post West of Indus \u2013 (Equipment / Refurbishment of Check Posts)",
+      "Unnamed: 1": 9398214,
+      "Unnamed: 2": 2631500000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10",
+    "row_number": 6,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": "Face-less Assessment",
+      "Unnamed: 1": 2100000,
+      "Unnamed: 2": 588000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10",
+    "row_number": 7,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": "BPR-Transformation, Vigilance Equipment/gadgets at Border Crossing Point and IMO (CTS / NTC & others)",
+      "Unnamed: 1": 17200000,
+      "Unnamed: 2": 4816000000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "10",
+    "row_number": 8,
+    "original_data": {
+      "Table 10: DIGITAL ENFORCEMENT STATIONS (DES) \u2013 INDUS COLLECTORATE (EQUIPMENT / REFURBISHMENT OF BUILDINGS), CHECK POSTS OF WEST INDUS (EQUIPMENT / REFURBISHMENT OF BUILDINGS), FACE-LESS ASSESSMENT, BPR-TRANSFORMATION, TECHNOLOGICAL ASSISTED EXAMINATION AT BORDER CROSSING POINTS AND IMO": "Total",
+      "Unnamed: 1": 46316071,
+      "Unnamed: 2": 12968500000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

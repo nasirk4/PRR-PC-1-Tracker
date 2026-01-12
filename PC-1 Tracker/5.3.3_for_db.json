@@ -1,0 +1,157 @@
+[
+  {
+    "sheet_name": "5.3.3",
+    "row_number": 2,
+    "original_data": {
+      "\u26a1 Summary of Power Backup Deployment \u2013 IRS & Customs Field Formations": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Unnamed: 3": null,
+      "Unnamed: 4": null,
+      "Unnamed: 5": null,
+      "Unnamed: 6": null,
+      "Unnamed: 7": null,
+      "Unnamed: 8": null,
+      "Unnamed: 9": null,
+      "Unnamed: 10": null,
+      "Unnamed: 11": null,
+      "Unnamed: 12": null,
+      "Unnamed: 13": null,
+      "Unnamed: 14": null,
+      "Unnamed: 15": null,
+      "Unnamed: 16": null
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3.3",
+    "row_number": 3,
+    "original_data": {
+      "\u26a1 Summary of Power Backup Deployment \u2013 IRS & Customs Field Formations": "Formation",
+      "Unnamed: 1": "UPS 10KVA",
+      "Unnamed: 2": "UPS 16KVA",
+      "Unnamed: 3": "UPS 20KVA",
+      "Unnamed: 4": "UPS 30KVA",
+      "Unnamed: 5": "UPS 40KVA",
+      "Unnamed: 6": "UPS 50KVA",
+      "Unnamed: 7": "UPS 60KVA",
+      "Unnamed: 8": "UPS 80KVA",
+      "Unnamed: 9": "Genset 100KVA",
+      "Unnamed: 10": "Genset 150KVA",
+      "Unnamed: 11": "Genset 200KVA",
+      "Unnamed: 12": "Genset 250KVA",
+      "Unnamed: 13": "Genset 300KVA",
+      "Unnamed: 14": "Genset 350KVA",
+      "Unnamed: 15": "Genset 450KVA",
+      "Unnamed: 16": "Genset 550KVA"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3.3",
+    "row_number": 4,
+    "original_data": {
+      "\u26a1 Summary of Power Backup Deployment \u2013 IRS & Customs Field Formations": "IRS Field Formations",
+      "Unnamed: 1": 80,
+      "Unnamed: 2": 31,
+      "Unnamed: 3": 13,
+      "Unnamed: 4": 4,
+      "Unnamed: 5": 2,
+      "Unnamed: 6": 0,
+      "Unnamed: 7": 0,
+      "Unnamed: 8": 2,
+      "Unnamed: 9": 0,
+      "Unnamed: 10": 5,
+      "Unnamed: 11": 2,
+      "Unnamed: 12": 1,
+      "Unnamed: 13": 1,
+      "Unnamed: 14": 1,
+      "Unnamed: 15": 1,
+      "Unnamed: 16": 1
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3.3",
+    "row_number": 5,
+    "original_data": {
+      "\u26a1 Summary of Power Backup Deployment \u2013 IRS & Customs Field Formations": "Customs Field Formations",
+      "Unnamed: 1": 42,
+      "Unnamed: 2": 19,
+      "Unnamed: 3": 3,
+      "Unnamed: 4": 0,
+      "Unnamed: 5": 0,
+      "Unnamed: 6": 0,
+      "Unnamed: 7": 0,
+      "Unnamed: 8": 8,
+      "Unnamed: 9": 0,
+      "Unnamed: 10": 8,
+      "Unnamed: 11": 0,
+      "Unnamed: 12": 0,
+      "Unnamed: 13": 0,
+      "Unnamed: 14": 1,
+      "Unnamed: 15": 1,
+      "Unnamed: 16": 1
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "5.3.3",
+    "row_number": 6,
+    "original_data": {
+      "\u26a1 Summary of Power Backup Deployment \u2013 IRS & Customs Field Formations": "Total",
+      "Unnamed: 1": 122,
+      "Unnamed: 2": 50,
+      "Unnamed: 3": 16,
+      "Unnamed: 4": 4,
+      "Unnamed: 5": 2,
+      "Unnamed: 6": 0,
+      "Unnamed: 7": 0,
+      "Unnamed: 8": 10,
+      "Unnamed: 9": 0,
+      "Unnamed: 10": 13,
+      "Unnamed: 11": 2,
+      "Unnamed: 12": 1,
+      "Unnamed: 13": 1,
+      "Unnamed: 14": 2,
+      "Unnamed: 15": 2,
+      "Unnamed: 16": 2
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]

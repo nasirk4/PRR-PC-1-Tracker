@@ -1,0 +1,302 @@
+[
+  {
+    "sheet_name": "6.5",
+    "row_number": 2,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": "Sr.No",
+      "Unnamed: 1": "Item Description",
+      "Unnamed: 2": "Quantity",
+      "Unnamed: 3": "Unit Cost US $",
+      "Unnamed: 4": "Total Cost US $",
+      "Unnamed: 5": "Total Cost (PKR)"
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 3,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 1,
+      "Unnamed: 1": "Desktops PCs",
+      "Unnamed: 2": 1500,
+      "Unnamed: 3": 1300,
+      "Unnamed: 4": 1950000,
+      "Unnamed: 5": 555633000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 4,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 2,
+      "Unnamed: 1": "Laptops",
+      "Unnamed: 2": 200,
+      "Unnamed: 3": 1520,
+      "Unnamed: 4": 304000,
+      "Unnamed: 5": 86621760
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 5,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 3,
+      "Unnamed: 1": "Monochrome LaserJet printers",
+      "Unnamed: 2": 100,
+      "Unnamed: 3": 300,
+      "Unnamed: 4": 30000,
+      "Unnamed: 5": 8548200
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 6,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 4,
+      "Unnamed: 1": "Color Printers",
+      "Unnamed: 2": 100,
+      "Unnamed: 3": 1200,
+      "Unnamed: 4": 120000,
+      "Unnamed: 5": 68385600
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 7,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 5,
+      "Unnamed: 1": "Heavy Duty Monochrome MFP",
+      "Unnamed: 2": 70,
+      "Unnamed: 3": 4000,
+      "Unnamed: 4": 280000,
+      "Unnamed: 5": 113976000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 8,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 6,
+      "Unnamed: 1": "VoIP Telephony",
+      "Unnamed: 2": 2400,
+      "Unnamed: 3": 650,
+      "Unnamed: 4": 1560000,
+      "Unnamed: 5": 444506400
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 9,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 7,
+      "Unnamed: 1": "LAN Infrastructure",
+      "Unnamed: 2": "Table 5.1",
+      "Unnamed: 3": null,
+      "Unnamed: 4": 700000,
+      "Unnamed: 5": 352274741
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 10,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 8,
+      "Unnamed: 1": "Servers and Racks",
+      "Unnamed: 2": "Table 5.2",
+      "Unnamed: 3": null,
+      "Unnamed: 4": 771588,
+      "Unnamed: 5": 219856285
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 11,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 9,
+      "Unnamed: 1": "Backup Power Infrastructure",
+      "Unnamed: 2": "Table 5.3",
+      "Unnamed: 3": null,
+      "Unnamed: 4": 4705862,
+      "Unnamed: 5": 1340888318
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 12,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 10,
+      "Unnamed: 1": "Microsoft Office",
+      "Unnamed: 2": 3000,
+      "Unnamed: 3": 100,
+      "Unnamed: 4": 300000,
+      "Unnamed: 5": 85482000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 13,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 11,
+      "Unnamed: 1": "Control Room with Video Surveillance",
+      "Unnamed: 2": "Table 5.4",
+      "Unnamed: 3": null,
+      "Unnamed: 4": 745750,
+      "Unnamed: 5": 212494005
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 14,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 12,
+      "Unnamed: 1": "LMS (Learning Management System) Software",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 100000,
+      "Unnamed: 4": 100000,
+      "Unnamed: 5": 28494000
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 15,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": 13,
+      "Unnamed: 1": "Simulator",
+      "Unnamed: 2": 1,
+      "Unnamed: 3": 86029,
+      "Unnamed: 4": 86029,
+      "Unnamed: 5": 24513103
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  },
+  {
+    "sheet_name": "6.5",
+    "row_number": 16,
+    "original_data": {
+      "7. Annex-6.5 TABLE 5: NEW IT EQUIPMENT FOR FBR HEADQUARTERS & FIELD FORMATION": null,
+      "Unnamed: 1": "Grand Total",
+      "Unnamed: 2": null,
+      "Unnamed: 3": null,
+      "Unnamed: 4": 11653229,
+      "Unnamed: 5": 3541673412
+    },
+    "tracking_data": {
+      "Installed": false,
+      "Functional": false,
+      "Verified_By": "",
+      "Last_Verified_Date": null,
+      "Remarks": "",
+      "Exception_Flag": false
+    }
+  }
+]
