@@ -1,0 +1,39 @@
+# Node / frontend
+node_modules/
+.pnp/
+.pnp.js
+/build
+/coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python / Django
+venv/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases
+*.sqlite3
+db.sqlite3
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Credentials and docs
+credentials.docx
+*.key
+*.pem
+
+# Misc
+dist/
+coverage/
